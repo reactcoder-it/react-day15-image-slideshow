@@ -41,7 +41,7 @@ class App extends Component {
         <div className="page">
           <section>
             <img src={logo} className="App-logo" alt="logo" />
-            <h1>Image slideshow React tutorial.</h1>
+            <h1>Image slideshow</h1>
           </section>
 
           <div className={`cards-slider active-slide-${property.index}`}>
